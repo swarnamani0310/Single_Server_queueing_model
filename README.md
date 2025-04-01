@@ -108,7 +108,6 @@ Status updates show real-time information about the queue:
 
 "No customers in queue."
 
-***Game Flow***
 
 
 

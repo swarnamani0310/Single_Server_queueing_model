@@ -54,6 +54,8 @@ When the "Start Service" button is clicked, the first customer in the queue is s
 
 The customer is removed from the queue after they are served, and the server status updates accordingly.
 
+![Image](https://github.com/user-attachments/assets/07e54ed9-2008-4ae8-96f0-27f30c23fadc)
+
 ***Queue Updates:***
 
 The queue updates dynamically as customers arrive and are served.

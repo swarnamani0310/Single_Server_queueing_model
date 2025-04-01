@@ -108,8 +108,8 @@ Status updates show real-time information about the queue:
 
 "No customers in queue."
 
-
-
+***Game Flow***<br>
+https://github.com/user-attachments/assets/22d6b8e3-f682-4e6a-948c-f624d4ef14f2<br>
 
 ***Technologies Used:***<br>
 

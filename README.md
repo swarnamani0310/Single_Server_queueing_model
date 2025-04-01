@@ -1,6 +1,6 @@
 **BAKERY QUEUE SIMULATION - SINGLE-SERVER QUEUING MODEL**
 
-***Introduction***
+***Introduction:***
 
 A Single-Server Queuing Model is a mathematical model used to represent situations where customers arrive at a service point and are served one by one in the order of their arrival. This type of queuing model is commonly used in various fields, such as retail, banking, and customer service, to simulate real-life scenarios and analyze the behavior of queues.
 
@@ -63,3 +63,71 @@ The queue updates dynamically as customers arrive and are served.
 An animation is applied to each customer to make them appear and move smoothly in the queue.
 
 A firework effect is shown after a customer is served to indicate successful service.
+
+**Getting Started**<br>
+
+***Prerequisites:***<br>
+
+A modern web browser (Chrome, Firefox, Edge, etc.)
+Basic understanding of HTML, CSS, and JavaScript.<br>
+
+<ins>Steps to Run the Project</ins><br>
+<br>
+***Clone the repository:***<br>
+
+You can clone the repository to your local machine using the following command:<br>
+
+git clone https://github.com/your-username/bakery-queue-simulation.git
+
+***Navigate to the project directory:***
+
+Open the project folder using a code editor (e.g., VS Code) or simply double-click the index.html file to open it in your web browser.
+
+***Run the project:***<br>
+Once you have the project files opened in your browser, the Bakery Queue Simulation will be live. You can interact with the simulation by adding customers and starting the service.
+
+**Features**<br>
+*1. Add Customer:*<br>
+Adds a new customer to the queue.
+
+The customer image moves into the queue, and their arrival is displayed.
+
+*2. Start Service:*<br>
+Starts serving the first customer in the queue.
+
+After the service is completed, the customer leaves the queue, and a "firework" animation is shown as an effect.
+
+*3. Queue Updates:*<br>
+Status updates show real-time information about the queue:
+
+"Waiting for customers..."
+
+"Customers waiting..."
+
+"Serving customer..."
+
+"No customers in queue."
+
+***Game Flow***
+
+
+
+***Technologies Used:***<br>
+
+*HTML* for structure.
+
+*CSS* for styling and animations.
+
+*JavaScript* for logic and interactivity.
+
+***Conclusion:***<br>
+
+This project demonstrates a basic Single-Server Queuing Model by simulating a bakery scenario where customers wait in line for service. The goal is to visualize how a queue behaves in real-time and to give users a clear understanding of queuing theory concepts.
+
+***License:***<br>
+
+This project is licensed under the MIT License - see the LICENSE file for details.
+
+***Image Credits and Attribution:***<br>
+
+All images used in this project belong to their respective owners. No copyright infringement is intended. If you own any of the images and would like them to be removed or credited differently, please contact us.

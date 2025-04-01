@@ -46,6 +46,8 @@ Customers can be added to the queue by pressing the "Add Customer" button.
 
 Each customer is represented by an image and is placed outside the queue to move into their position.
 
+![Image](https://github.com/user-attachments/assets/4dc62943-44b5-43db-b290-484ec00be2e3)
+
 ***Customer Service:***
 
 When the "Start Service" button is clicked, the first customer in the queue is served.
